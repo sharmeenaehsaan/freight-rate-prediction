@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+catboost_info/
+data/prepared_*.csv
